@@ -1,2 +1,1 @@
-# Polyp-detection-in-Endoscopy-images
-Polyp detection in Endoscopy images (MICCAI 2017). For more project visit:
+Validation accuracy: 87.31% and True Positive Rate (TPR): 92.05%
